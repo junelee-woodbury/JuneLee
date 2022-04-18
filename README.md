@@ -4,6 +4,7 @@
   
 ## Intstallation instructions
 
-- **Bold Bullet point:** 
-- **Bold Bullet point:** 
-- **Bold Bullet point:** 
+
+- **Glitch Room: https://glitch.com/edit/#!/gelatinous-reminiscent-canid?path=index.html%3A119%3A49** 
+- **Plug-in intro Video:** 
+- **Plug-in Tutorial:**
