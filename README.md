@@ -5,6 +5,6 @@
 ## Intstallation instructions
 
 
-- **Glitch Room: https://glitch.com/edit/#!/gelatinous-reminiscent-canid?path=index.html%3A119%3A49** 
+- **Glitch Room: https://junelee.glitch.me** 
 - **Plug-in intro Video:** 
 - **Plug-in Tutorial:**
