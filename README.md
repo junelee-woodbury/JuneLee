@@ -6,7 +6,7 @@
 
 
 - **Glitch Room: https://junelee.glitch.me** 
-- **Plug-in intro Video:** 
+- **Plug-in intro Video:https://vimeo.com/703570483** 
 - **Plug-in Tutorial:**
 
 ##
